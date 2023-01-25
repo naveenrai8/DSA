@@ -2,5 +2,5 @@
 
 using DataStructureAlgo.RecursionBacktracking;
 
-var obj = new SubsequenceWithSumK();
+var obj = new CombinationSumLC();
 obj.Run();
