@@ -2,5 +2,5 @@
 
 using DataStructureAlgo.RecursionBacktracking;
 
-var obj = new SubSetSum();
+var obj = new PermutationsLeetCode();
 obj.Run();
