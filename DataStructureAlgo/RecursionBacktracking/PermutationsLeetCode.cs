@@ -2,6 +2,8 @@ namespace DataStructureAlgo.RecursionBacktracking;
 
 public class PermutationsLeetCode
 {
+    // explanation: https://drive.google.com/file/d/1GQLcA-6ByusMnyXn0aT4mm4mp0JwR-gk/view?usp=share_link
+    // notability link: https://drive.google.com/file/d/1193xL-ear6yMIOcF7NLn8PtmBPCjKnXp/view?usp=share_link
     public void Run()
     {
         PermutationUsingBooleanArray(new []{1,2,3}, new LinkedList<int>(), new bool[3]);
