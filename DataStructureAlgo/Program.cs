@@ -4,5 +4,5 @@ using System.Text;
 using DataStructureAlgo.Graph;
 
 Console.WriteLine("Running DSA Project");
-var run = new DepthFirstSearchTraversal();
+var run = new BreathFirstTraversal();
 run.Run();
