@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using DataStructureAlgo.RecursionBacktracking;
+using System.Text;
+using DataStructureAlgo.Graph;
 
-var obj = new SubSetSum();
-obj.Run();
+Console.WriteLine("Running DSA Project");
+var run = new DepthFirstSearchTraversal();
+run.Run();
